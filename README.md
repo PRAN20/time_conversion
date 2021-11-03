@@ -11,9 +11,9 @@ Return '00:01:00'.
 ## Function Description
 Complete the timeConversion function in the editor below. It should return a new string representing the input time in 24 hour format.
 ## timeConversion has the following parameter(s):
-string s: a time in  hour format
+String s: a time in  hour format
 ## Returns
-string: the time in  hour format
+String: the time in  hour format
 ## Input Format
 A single string  that represents a time in -hour clock format (i.e.:  or ).
 ## Constraints
